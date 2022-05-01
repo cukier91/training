@@ -1,0 +1,33 @@
+:root {
+	--font: #E4D8F0;
+	--border: #A52590;
+	--background-hover: #F9127B;
+}
+
+
+.users-table{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: var(--font);
+}
+
+table {
+	width: 60%;
+    color: var(--font);
+}
+
+th,
+td {
+	padding: 8px;
+	text-align: center;
+	border-bottom: 2px solid var(--border);
+}
+
+tr:hover {background-color: var(--background-hover);}
+
+a{
+    text-decoration: none;
+    color: var(--font);
+}

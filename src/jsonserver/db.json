@@ -1,0 +1,112 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Brad",
+      "surname": "Omega",
+      "dateOfRegistration": "27-10-2021",
+      "endOfSubscription": "27-11-2021"
+    },
+    {
+      "id": 2,
+      "name": "Alex",
+      "surname": "Omni",
+      "dateOfRegistration": "17-10-2021",
+      "endOfSubscription": "17-11-2021"
+    },
+    {
+      "id": 3,
+      "name": "Moni",
+      "surname": "Amu",
+      "dateOfRegistration": "01-01-2021",
+      "endOfSubscription": "01-03-2021"
+    },
+    {
+      "id": 4,
+      "name": "Tiana",
+      "surname": "Totuni",
+      "dateOfRegistration": "02-05-2021",
+      "endOfSubscription": "02-06-2021"
+    },
+    {
+      "id": 5,
+      "name": "Sevi",
+      "surname": "Amini",
+      "dateOfRegistration": "01-03-2021",
+      "endOfSubscription": "01-06-2021"
+    },
+    {
+      "id": 6,
+      "name": "Omni",
+      "surname": "Omino",
+      "dateOfRegistration": "21-10-2021",
+      "endOfSubscription": "21-12-2021"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "is_logged": false,
+      "login": "user_1",
+      "password": "user_1"
+    },
+    {
+      "id": 2,
+      "is_logged": false,
+      "login": "user_2",
+      "password": "user_2"
+    },
+    {
+      "id": 3,
+      "is_logged": false,
+      "login": "user_3",
+      "password": "user_3"
+    },
+    {
+      "id": 4,
+      "is_logged": false,
+      "login": "user_4",
+      "password": "user_4"
+    },
+    {
+      "id": 5,
+      "is_logged": false,
+      "login": "user_5",
+      "password": "user_5"
+    }
+  ],
+  "clients": [
+    {
+      "name": "Adam",
+      "surname": "Baranek",
+      "email": "baranek@gmail.com",
+      "id": "21a44136-10a2-47a2-8cab-7b61fda6caa0"
+    },
+    {
+      "name": "Ada",
+      "surname": "Burgu",
+      "email": "burgu.ada@gmail.com",
+      "id": "ada8b885-1638-456b-9a78-7fe9e4ba4c96"
+    },
+    {
+      "name": "Adam",
+      "surname": "Wojtkowiak",
+      "email": "wojtkowiaka@gmail.com",
+      "id": "8ed83e1a-915e-4ed4-8a76-1b1ca4a71ec7"
+    },
+    {
+      "name": "Wiktoria",
+      "surname": "Konarowski",
+      "email": "wiktor@gmail.com",
+      "id": "58a3ce14-d525-4c66-a5c3-9f6183529d09"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "date": "2022-04-03",
+      "is_ready": false,
+      "order_detail": "john.doe@gmail.com"
+    }
+  ]
+}

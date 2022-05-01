@@ -1,0 +1,29 @@
+:root {
+	--font: white;
+	--border: #A52590;
+	--background-hover: #F9127B;
+}
+
+
+.nav{
+border: solid 2px var(--border);
+height: 55px;
+background-color: var(--background-hover);
+color: var(--font);
+font-size: 12px;
+display: flex;
+justify-content: center;
+gap: 5%;
+}
+
+.img-user{
+    padding-top: 10px;
+    height: 70%;
+    filter: invert(100%);
+}
+
+.user-welcome{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 580px;
+}

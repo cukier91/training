@@ -1,0 +1,41 @@
+:root {
+	--font: #E4D8F0;
+	--border: #A52590;
+	--background-hover: #F9127B;
+}
+
+.wrap{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.login{
+    width: 60%;
+    font-size: 12px;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    background-color: var(--border);
+    justify-content: center;
+}
+
+.login-btn{
+width: 65%;
+color: var(--font);
+background-color: var(--background-hover);
+}
+
+.p-login{
+    font-size: 13px;
+}
