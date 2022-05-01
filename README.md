@@ -5,5 +5,5 @@ This app is a project for training. The purpose of this app is to learn new and 
 <h1>Tech/framework used 🧰</h1>
 
 
-| Tech | Description  |
+| Tech | Description -----------------------  |
 | React| Library for building user interfaces |
